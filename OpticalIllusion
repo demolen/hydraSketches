@@ -1,0 +1,1 @@
+osc(70,2,0.5).rotate(1).kaleid(1).repeat(10).out()
